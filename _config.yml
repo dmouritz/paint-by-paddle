@@ -1,0 +1,4 @@
+# GitHub Pages settings for the Paint By Paddle pages. GitHub builds the site with Jekyll and its default theme;
+# this title appears at the top of every page instead of the repository name.
+title: Paint By Paddle
+description: Support and privacy policy for the iPhone game Paint By Paddle.
