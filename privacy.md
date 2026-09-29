@@ -2,8 +2,6 @@
 
 _Last updated: 29 September 2026_
 
-Paint By Paddle is a game for iPhone made by Douglas Mouritz, an independent developer.
-
 ## The short version
 
 Paint By Paddle does not collect, share or sell any personal data. The little it saves to remember your game stays on your iPhone. There is nothing to opt out of and no account to delete.
